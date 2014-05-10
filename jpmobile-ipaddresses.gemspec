@@ -28,12 +28,13 @@ Gem::Specification.new do |s|
      "lib/jpmobile/mobile/ip_addresses/docomo.rb",
      "lib/jpmobile/mobile/ip_addresses/emobile.rb",
      "lib/jpmobile/mobile/ip_addresses/softbank.rb",
-     "lib/jpmobile/mobile/ip_addresses/willcom.rb"
+     "lib/jpmobile/mobile/ip_addresses/willcom.rb",
+     "lib/jpmobile/mobile/ip_addresses/wimax.rb"
   ]
   s.homepage = %q{http://github.com/jpmobile/jpmobile-ipaddresses}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.7}
+  s.rubygems_version = %q{1.3.8}
   s.summary = %q{Carrier IP Address List for jpmobile}
 
   if s.respond_to? :specification_version then

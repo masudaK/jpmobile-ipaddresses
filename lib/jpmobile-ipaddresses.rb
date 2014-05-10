@@ -13,6 +13,7 @@ module Jpmobile
       autoload :Willcom,             'jpmobile/mobile/ip_addresses/willcom'
       autoload :Ddipocket,           'jpmobile/mobile/ip_addresses/willcom'
       autoload :Emobile,             'jpmobile/mobile/ip_addresses/emobile'
+      autoload :Wimax,             'jpmobile/mobile/ip_addresses/wimax'
     end
   end
 end
