@@ -9,11 +9,9 @@ module Jpmobile
       autoload :Docomo,              'jpmobile/mobile/ip_addresses/docomo'
       autoload :Au,                  'jpmobile/mobile/ip_addresses/au'
       autoload :Softbank,            'jpmobile/mobile/ip_addresses/softbank'
-      autoload :Vodafone,            'jpmobile/mobile/ip_addresses/softbank'
       autoload :Willcom,             'jpmobile/mobile/ip_addresses/willcom'
-      autoload :Ddipocket,           'jpmobile/mobile/ip_addresses/willcom'
       autoload :Emobile,             'jpmobile/mobile/ip_addresses/emobile'
-      autoload :Wimax,             'jpmobile/mobile/ip_addresses/wimax'
+      autoload :Wimax,               'jpmobile/mobile/ip_addresses/wimax'
     end
   end
 end
