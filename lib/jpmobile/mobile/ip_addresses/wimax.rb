@@ -1,7 +1,7 @@
 module Jpmobile
   module Mobile
     module IpAddresses
-      class Emobile < AbstractIpAddresses
+      class Wimax < AbstractIpAddresses
         class << self
           def ip_address_list
             @@ip_address_list ||= [
